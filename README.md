@@ -1,4 +1,7 @@
-# UI-Size
-Default Ui-Size for website mockups
+# UI-Size-Guide
+Common Ui-Sizes for website mockups
 
-[Frame 1.pdf](https://github.com/user-attachments/files/17475703/Frame.1.pdf)
+![Frame 2](https://github.com/user-attachments/assets/eb7b29cf-4c4f-411b-9c06-3b600ee8febf)
+
+
+
